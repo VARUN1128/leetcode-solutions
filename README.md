@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VARUN1128/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1395-minimum-time-visiting-all-points](https://github.com/VARUN1128/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VARUN1128/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1395-minimum-time-visiting-all-points](https://github.com/VARUN1128/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VARUN1128/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/VARUN1128/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
